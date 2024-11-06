@@ -34,3 +34,5 @@ const solution = (numbers) => {
     return "equal";
   }
 };
+
+//any faster way?
